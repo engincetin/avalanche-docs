@@ -87,7 +87,7 @@ $ git clone https://github.com/ava-labs/avalanchego.git
 Build the image into docker:
 
 ```
-$ cd avalancghego
+$ cd avalanchego
 $ ./scripts/build_image.sh
 ```
 
